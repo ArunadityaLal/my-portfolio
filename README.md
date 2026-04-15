@@ -23,12 +23,6 @@ A modern, responsive developer portfolio showcasing my projects, skills, and exp
 
 ---
 
-## 📸 Preview
-
-![Portfolio Screenshot](./src/assets/photo.jpeg)
-
----
-
 ## 🛠 Tech Stack
 
 * React 19
