@@ -1,16 +1,117 @@
-# React + Vite
+# 🚀 Arunaditya Lal — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 **Live Website:** https://arunadityalal.vercel.app
+📧 **Email:** [arunlal0607@gmail.com](mailto:arunlal0607@gmail.com)
+💼 **LinkedIn:** https://linkedin.com/in/arunaditya-lal/
+💻 **GitHub:** https://github.com/ArunadityaLal
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📌 About
 
-## React Compiler
+A modern, responsive developer portfolio showcasing my projects, skills, and experience. Built with a focus on clean UI, smooth animations, and performance.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Highlights
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* ⚡ Fast and responsive design
+* 🎨 Modern UI with clean aesthetics
+* 📱 Fully mobile-friendly
+* 🎬 Smooth animations using Framer Motion
+* 🧩 Component-based scalable architecture
+
+---
+
+## 📸 Preview
+
+![Portfolio Screenshot](./src/assets/photo.jpeg)
+
+---
+
+## 🛠 Tech Stack
+
+* React 19
+* Vite
+* Tailwind CSS
+* Framer Motion
+* Radix UI
+* React Router
+* React Query
+* Lucide / React Icons
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+│── main.jsx
+│── App.jsx
+│── index.css
+│
+├── pages/
+│   └── Portfolio.jsx
+│
+├── components/
+│   ├── portfolio/
+│   │   ├── HeroSection.jsx
+│   │   ├── AboutSection.jsx
+│   │   ├── ProjectsSection.jsx
+│   │   ├── SkillsSection.jsx
+│   │   ├── ExperienceSection.jsx
+│   │   ├── AchievementsSection.jsx
+│   │   ├── ContactSection.jsx
+│   │   ├── Navbar.jsx
+│   │   └── Footer.jsx
+│   │
+│   └── ui/
+│       ├── button.jsx
+│       ├── card.jsx
+│       ├── dialog.jsx
+│       └── ...
+│
+├── assets/
+│   ├── photo.jpeg
+│   └── ArunadityaLalResume.pdf
+│
+└── lib/
+    └── utils.js
+```
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository and run locally:
+
+```bash
+git clone https://github.com/ArunadityaLal/my-portfolio.git
+cd my-portfolio
+npm install
+npm run dev
+```
+
+---
+
+## 🌐 Deployment
+
+This project is deployed on **Vercel** for fast and reliable hosting.
+
+👉 Live: https://arunadityalal.vercel.app
+
+---
+
+## 📬 Contact
+
+Feel free to connect with me:
+
+* 📧 Email: [arunlal0607@gmail.com](mailto:arunlal0607@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/arunaditya-lal/
+* 💻 GitHub: https://github.com/ArunadityaLal
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub!
